@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{3C12FE72-0089-44B2-969F-D2CDD339151B}|Default">
+  <MonoDevelop.Ide.ItemProperties.PayrollApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Controllers/StudentController.cs" Line="54" Column="35" />
+      <File FileName="Controllers/SubjectController.cs" />
+      <File FileName="Controllers/PayrollController.cs" />
+      <File FileName="Models/Subject.cs" />
+      <File FileName="Models/Student.cs" />
+      <File FileName="Data/PayrollContext.cs" />
+      <File FileName="Startup.cs" Line="42" Column="45" />
+      <File FileName="WeatherForecast.cs" />
+      <File FileName="appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PayrollApi" expanded="True">
+            <Node name="PayrollApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

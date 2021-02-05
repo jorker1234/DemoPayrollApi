@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/juster/.dotnet/store/|arch|/|tfm|",
+      "/Users/juster/.nuget/packages"
+    ]
+  }
+}
